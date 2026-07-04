@@ -1,0 +1,15 @@
+# Core — everything the from-scratch notebooks (01–05) and the tests need
+numpy>=1.24
+matplotlib>=3.7
+pillow>=9.0          # rendering the animated GIF
+
+# Running the notebooks
+jupyterlab>=4.0
+ipykernel>=6.0
+
+# Checking the physics
+pytest>=7.0
+
+# Notebook 06 (foundation models) will add, when it lands:
+#   mace-torch      # the MACE-MP universal potential
+#   ase             # the Atomic Simulation Environment (the field's lingua franca)

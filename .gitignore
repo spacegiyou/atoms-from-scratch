@@ -1,0 +1,12 @@
+__pycache__/
+*.py[cod]
+.ipynb_checkpoints/
+.pytest_cache/
+.venv/
+venv/
+assets/_preview.png
+.DS_Store
+
+# working notes / build artifacts — not part of the published product
+2차 지시문/
+*.zip
