@@ -13,7 +13,7 @@
 
 *The nanoGPT of AI-for-Science.*
 
-🎬 **[Watch the 2-minute walkthrough →](media/atoms-from-scratch_intro.mp4)** · English narration
+🎬 **[Watch the 2-minute walkthrough →](https://github.com/spacegiyou/atoms-from-scratch/releases/tag/v0.1.0)** · English narration
 
 ⭐ **If this helps you learn, a star makes it easier for the next person to find.**
 
