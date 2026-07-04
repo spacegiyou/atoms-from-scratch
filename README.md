@@ -4,9 +4,18 @@
 
 ### Learn machine-learning molecular dynamics by building it — from `F = ma` to foundation models. No chemistry PhD required.
 
+[![tests](https://github.com/spacegiyou/atoms-from-scratch/actions/workflows/tests.yml/badge.svg)](https://github.com/spacegiyou/atoms-from-scratch/actions/workflows/tests.yml)
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
+[![Python](https://img.shields.io/badge/python-3.12%2B-blue.svg)](requirements.txt)
+[![notebooks](https://img.shields.io/badge/notebooks-8%20runnable-orange.svg)](notebooks/)
+
 <img src="assets/lj_cluster.gif" width="360" alt="a cluster of atoms doing molecular dynamics, built from scratch"/>
 
 *The nanoGPT of AI-for-Science.*
+
+🎬 **[Watch the 2-minute walkthrough →](media/atoms-from-scratch_intro.mp4)** · English narration
+
+⭐ **If this helps you learn, a star makes it easier for the next person to find.**
 
 </div>
 
